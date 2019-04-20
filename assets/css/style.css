@@ -1,0 +1,35 @@
+
+body {
+	background-image: url(../images/japan.jpg) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	max-width: 980px;
+    margin: auto;
+   
+}
+
+.container{
+    
+    width:1025px;
+  }
+  
+  .jumbotron .container {
+    max-width: 100%;
+  }
+
+.jumbotron {
+text-align: center;
+background-color: rgba(236, 181, 229, 0.726);
+
+}
+
+.text {
+    color: rgb(250, 246, 249);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    shape-image-threshold: inherit;
+}
+
+#start {
+    color: rgb(240, 253, 255);
+}
+
