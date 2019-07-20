@@ -4,4 +4,4 @@ Take the quiz and answer the questions! You only have 10 seconds to answer each 
 
 Good luck! Ganbatte!
 
-https://knightsofnhi.github.io/TriviaGame/
+https://knightsofnhi.github.io/Learn-Japanese/
